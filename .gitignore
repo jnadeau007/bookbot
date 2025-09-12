@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 books/
+=======
+/books
+>>>>>>> b62c7e6 (added statistics functionality and report generate function to render various data points for a book that a user runs this program on)

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from collections import Counter
 
 def main():
@@ -36,3 +37,16 @@ def count_character(book):
 
 if __name__ == '__main__':
     main()
+=======
+from stats import *
+import sys
+
+def main():
+    if len(sys.argv) < 2:
+        print("Usage: python3 main.py <path_to_book>")
+        sys.exit(1)
+    generate_report(sys.argv[1])
+
+
+main()
+>>>>>>> b62c7e6 (added statistics functionality and report generate function to render various data points for a book that a user runs this program on)
