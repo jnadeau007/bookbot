@@ -30,6 +30,8 @@ It counts words, tracks character frequencies, and organizes the results into a 
     python3 main.py books/[NAMEOFBOOK.txt]
 
 📊 Example Output
+
+
 ============ BOOKBOT ============
 Analyzing book found at books/frankenstein.txt...
 ----------- Word Count ----------
